@@ -26,7 +26,7 @@ Hacking Website :- [FreyJST Hacks](https://frey0xd.me)
 
 
 ` Then it will start finding emails from every pages of the website you target`
-![1](img/emaili3.png)
+![1](img/email3.png)
 
 
 
