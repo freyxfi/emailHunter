@@ -32,3 +32,10 @@ Hacking Website :- [FreyJST Hacks](https://frey0xd.me)
 
 ` And then here you go with results `
 ![1](img/email4.png)
+
+
+
+## Note:- I have used https://home.iitd.ac.in/ as my attacking site but i don't have permission to do that so please first take a permission because sometimes you can also be scrapping some of the prive pages with this tool xD otherwise Hack The Planet ! 
+
+
+# @FREYJST
