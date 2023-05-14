@@ -6,11 +6,11 @@
 
 Follow Me :- 
 
-Twitter :- [Twitter](https://www.twitter.com/freyjst)
-Instagram :- [Instagram](https://www.instagram.com/freyjst)
+Twitter :- [Twitter](https://www.twitter.com/frey0xd)
+Instagram :- [Instagram](https://www.instagram.com/frey0xd)
 Youtube :- [Youtube](https://www.youtube.com/c/freyjst)
-My Website 1 :- [FreyJST Website](https://insternetsboy.engineer)
-Hacking Website :- [FreyJST Hacks](https://frey0xd.me)
+My Website 1 :- [Website](https://frey0xd.tech)
+Hacking Website :- [Website](https://frey0xd.tech)
 
 
 #HOW TO USE
@@ -38,4 +38,4 @@ Hacking Website :- [FreyJST Hacks](https://frey0xd.me)
 ## Note:- I have used https://home.iitd.ac.in/ as my attacking site but i don't have permission to do that so please first take a permission because sometimes you can also be scrapping some of the prive pages with this tool xD otherwise Hack The Planet ! 
 
 
-# @FREYJST
+# @FREY0XD
